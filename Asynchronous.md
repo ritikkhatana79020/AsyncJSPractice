@@ -15,9 +15,9 @@ _Asynchronous Code allows the program to be executed immediately where the synch
 </script>
 
 ```
-__Output__: hi
-            Let's see what will happens
-            End
+__Output__: >hi
+            >Let's see what will happens
+            >End
 
 _Most of the asyncronous code you work with will be part of an API or library_
 -XMLHttpRequest and Fetch
