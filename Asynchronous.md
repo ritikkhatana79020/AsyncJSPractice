@@ -19,12 +19,12 @@ __Output__: hi
             Let's see what will happens  
             End  
 
-_Most of the asyncronous code you work with will be part of an API or library_
--XMLHttpRequest and Fetch
--jQuery Ajax, Axios, other HTTP libraries
--Node.js fs(file system) module            
+_Most of the asyncronous code you work with will be part of an API or library_  
+-XMLHttpRequest and Fetch  
+-jQuery Ajax, Axios, other HTTP libraries  
+-Node.js fs(file system) module              
  
-__There are __few ways to work with Async code__
+__There are __few ways to work with Async code__  
 -callback  
 -promises  
 -async/await  
