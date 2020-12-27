@@ -1,1 +1,20 @@
+#AJAX
 
+## AJAX = Asynchronous JavaScript And XML.   
+
+## AJAX is not a programming language.   
+ 
+## AJAX just uses a combination of:   
+
+## A browser built-in XMLHttpRequest object (to request data from a web server) JavaScript and HTML DOM (to display or use the data)   
+
+
+#JSON
+
+## JSON stands for JavaScript Object Notation   
+
+## JSON is a lightweight format for storing and transporting data   
+
+## JSON is often used when data is sent from a server to a web page   
+
+## JSON is "self-describing" and easy to understand   
